@@ -23,3 +23,6 @@ def speak_to_grandma(str)
   end
   
 end
+
+
+puts speak_to_grandma("i love you grandma!")
